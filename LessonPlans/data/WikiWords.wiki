@@ -1,0 +1,4 @@
+﻿++ Wiki Words
+
+words that are mixed case recognized by WikidPad, if you create content in their respective pages you can easily access that information
+
