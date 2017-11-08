@@ -3,4 +3,4 @@ If you're from the general public, you won't find anything useful here. this is 
 
 For Gill:
 
-This is our little space for files! here you can upload your finished code, and I can download it and make corrections and comments. I'll make a .wiki for you to use as well, which you will fill in. I'll also upload what I want to cover each week in a lesson plan branch
+This is our little space for files! here you can upload your finished code, and I can download it and make corrections and comments. I'll make a .wiki for you to use as well, which you will fill in. I'll also upload what I want to cover each week in a lesson plan wiki file
