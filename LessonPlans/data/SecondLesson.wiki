@@ -1,0 +1,3 @@
+﻿++ Second Lesson
+
+mostly a test to practice git
