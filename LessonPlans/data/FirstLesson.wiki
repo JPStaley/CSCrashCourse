@@ -1,7 +1,5 @@
 ﻿++ First Lesson
 
-THIS IS A TEST TO SEE IF I REMEMBER HOW TO DO COMMIT AND ADD FILES
-
 +++wikidPad
 
 this is a tool that you can use to take notes and easily find information
