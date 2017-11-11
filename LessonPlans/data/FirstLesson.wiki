@@ -1,5 +1,7 @@
 ﻿++ First Lesson
 
+THIS IS A TEST TO SEE IF I REMEMBER HOW TO DO COMMIT AND ADD FILES
+
 +++wikidPad
 
 this is a tool that you can use to take notes and easily find information
@@ -10,9 +12,9 @@ The only caveat is that you already need that page to be created to properly lin
 
 +++ git and Github
 
-we are going to use github to easily share your programs with me. Github is a version control system(VCS) which is commonly used in the CS industry. you may never use it again outside of the class
+we are going to use github to easily share your programs with me. Github is a web server that stores projects controlled by git, a version control system(VCS) which is commonly used in the CS industry. you may never use it again outside of this
 
-for now you'll use the web interface to interact wth your code and your uploaded wikis
+you can use the web interface for a limited amount of things, but you need to install git. I'll teach you how to do that and how to commit changes to your files.
 
 +++ Finding Information
 
@@ -33,4 +35,19 @@ Finding answers
     * if google does not work there are still options
     *   you can post a question to reddit either on /r/learnpython or /r/python or /r/learnprogramming or a plethora of other communities
     *   you can also use stackexchange(I typically stick with reddit)
+    
++++first python program
+
+print("hello world!")
+
+one line of code. no semi colon to forget (but you could use one. it's unconvential and not recomended)
+very simple to understand, nothing like "system.out"
+no class declarations, but python is Object Oriented. We will learn more about that later in the course
+
++++ data types
+
+Python contains all the same data types Java does: int, boolean, char, float, string. but declaring them is slightly different:
+
+num = 5 #declares a variable named 5, automatically assigned the int variable type
+word = 'string'#declares variable named word, automaticall assigned the string variable type
     

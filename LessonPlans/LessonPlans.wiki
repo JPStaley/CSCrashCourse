@@ -37,7 +37,7 @@ tabhistory_maxentries = 25
 template_pagenamesre = ^template/
 further_wiki_words = 
 wiki_name = LessonPlans
-last_wiki_word = LessonPlans
+last_wiki_word = FirstLesson
 tree_last_root_wiki_word = LessonPlans
 
 [wiki_db]
